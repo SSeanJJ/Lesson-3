@@ -1,5 +1,5 @@
 package model;
 
-public class PlayStrategy {
+public enum PlayStrategy {
     HighLow, CloserAway
 }
